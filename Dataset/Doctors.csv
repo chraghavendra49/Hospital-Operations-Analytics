@@ -1,0 +1,100 @@
+﻿1,Dr. Arjun Rao 1,1,Cardiologist,8,1000.00
+2,Dr. Priya Sharma 2,2,Neurologist,13,1400.00
+3,Dr. Rahul Reddy 3,3,Orthopedic Specialist,23,1500.00
+4,Dr. Ananya Patel 4,4,Pediatrician,12,800.00
+5,Dr. Vikram Singh 5,5,Dermatologist,5,800.00
+6,Dr. Sneha Kumar 6,6,General Physician,3,1500.00
+7,Dr. Kiran Verma 7,7,ENT Specialist,11,1000.00
+8,Dr. Neha Reddy 8,8,Ophthalmologist,24,1500.00
+9,Dr. Amit Shah 9,9,Gynecologist,14,1100.00
+10,Dr. Pooja Rao 10,10,Urologist,6,1200.00
+11,Dr. Sandeep Kumar 11,11,Oncologist,9,500.00
+12,Dr. Divya Singh 12,12,Gastroenterologist,9,600.00
+13,Dr. Manoj Patel 13,13,Pulmonologist,13,1500.00
+14,Dr. Kavya Sharma 14,14,Psychiatrist,23,800.00
+15,Dr. Rohit Reddy 15,15,Emergency Physician,8,1000.00
+16,Dr. Meera Nair 16,1,Cardiologist,7,1100.00
+17,Dr. Aditya Rao 17,2,Neurologist,24,700.00
+18,Dr. Swathi Kumar 18,3,Orthopedic Specialist,3,1300.00
+19,Dr. Nikhil Verma 19,4,Pediatrician,13,700.00
+20,Dr. Lakshmi Reddy 20,5,Dermatologist,7,700.00
+21,Dr. Arjun Rao 21,6,General Physician,14,1300.00
+22,Dr. Priya Sharma 22,7,ENT Specialist,14,800.00
+23,Dr. Rahul Reddy 23,8,Ophthalmologist,23,600.00
+24,Dr. Ananya Patel 24,9,Gynecologist,11,1200.00
+25,Dr. Vikram Singh 25,10,Urologist,20,900.00
+26,Dr. Sneha Kumar 26,11,Oncologist,20,1400.00
+27,Dr. Kiran Verma 27,12,Gastroenterologist,12,1500.00
+28,Dr. Neha Reddy 28,13,Pulmonologist,7,800.00
+29,Dr. Amit Shah 29,14,Psychiatrist,15,1200.00
+30,Dr. Pooja Rao 30,15,Emergency Physician,15,1000.00
+31,Dr. Sandeep Kumar 31,1,Cardiologist,3,1000.00
+32,Dr. Divya Singh 32,2,Neurologist,16,1200.00
+33,Dr. Manoj Patel 33,3,Orthopedic Specialist,3,900.00
+34,Dr. Kavya Sharma 34,4,Pediatrician,17,800.00
+35,Dr. Rohit Reddy 35,5,Dermatologist,4,1000.00
+36,Dr. Meera Nair 36,6,General Physician,15,1400.00
+37,Dr. Aditya Rao 37,7,ENT Specialist,5,1100.00
+38,Dr. Swathi Kumar 38,8,Ophthalmologist,23,500.00
+39,Dr. Nikhil Verma 39,9,Gynecologist,3,600.00
+40,Dr. Lakshmi Reddy 40,10,Urologist,11,1500.00
+41,Dr. Arjun Rao 41,11,Oncologist,3,800.00
+42,Dr. Priya Sharma 42,12,Gastroenterologist,4,1300.00
+43,Dr. Rahul Reddy 43,13,Pulmonologist,12,1500.00
+44,Dr. Ananya Patel 44,14,Psychiatrist,24,1300.00
+45,Dr. Vikram Singh 45,15,Emergency Physician,2,1400.00
+46,Dr. Sneha Kumar 46,1,Cardiologist,6,1300.00
+47,Dr. Kiran Verma 47,2,Neurologist,20,900.00
+48,Dr. Neha Reddy 48,3,Orthopedic Specialist,17,600.00
+49,Dr. Amit Shah 49,4,Pediatrician,12,600.00
+50,Dr. Pooja Rao 50,5,Dermatologist,19,1500.00
+51,Dr. Sandeep Kumar 51,6,General Physician,19,1400.00
+52,Dr. Divya Singh 52,7,ENT Specialist,14,600.00
+53,Dr. Manoj Patel 53,8,Ophthalmologist,21,1000.00
+54,Dr. Kavya Sharma 54,9,Gynecologist,12,1300.00
+55,Dr. Rohit Reddy 55,10,Urologist,13,800.00
+56,Dr. Meera Nair 56,11,Oncologist,21,1100.00
+57,Dr. Aditya Rao 57,12,Gastroenterologist,18,800.00
+58,Dr. Swathi Kumar 58,13,Pulmonologist,22,500.00
+59,Dr. Nikhil Verma 59,14,Psychiatrist,10,800.00
+60,Dr. Lakshmi Reddy 60,15,Emergency Physician,4,1100.00
+61,Dr. Arjun Rao 61,1,Cardiologist,13,1500.00
+62,Dr. Priya Sharma 62,2,Neurologist,20,500.00
+63,Dr. Rahul Reddy 63,3,Orthopedic Specialist,25,600.00
+64,Dr. Ananya Patel 64,4,Pediatrician,5,700.00
+65,Dr. Vikram Singh 65,5,Dermatologist,9,600.00
+66,Dr. Sneha Kumar 66,6,General Physician,16,1500.00
+67,Dr. Kiran Verma 67,7,ENT Specialist,3,1300.00
+68,Dr. Neha Reddy 68,8,Ophthalmologist,24,700.00
+69,Dr. Amit Shah 69,9,Gynecologist,9,1500.00
+70,Dr. Pooja Rao 70,10,Urologist,12,500.00
+71,Dr. Sandeep Kumar 71,11,Oncologist,13,1100.00
+72,Dr. Divya Singh 72,12,Gastroenterologist,23,900.00
+73,Dr. Manoj Patel 73,13,Pulmonologist,16,1200.00
+74,Dr. Kavya Sharma 74,14,Psychiatrist,3,500.00
+75,Dr. Rohit Reddy 75,15,Emergency Physician,7,1200.00
+76,Dr. Meera Nair 76,1,Cardiologist,17,700.00
+77,Dr. Aditya Rao 77,2,Neurologist,16,800.00
+78,Dr. Swathi Kumar 78,3,Orthopedic Specialist,19,500.00
+79,Dr. Nikhil Verma 79,4,Pediatrician,17,900.00
+80,Dr. Lakshmi Reddy 80,5,Dermatologist,21,1500.00
+81,Dr. Arjun Rao 81,6,General Physician,25,900.00
+82,Dr. Priya Sharma 82,7,ENT Specialist,8,1400.00
+83,Dr. Rahul Reddy 83,8,Ophthalmologist,4,1100.00
+84,Dr. Ananya Patel 84,9,Gynecologist,11,1100.00
+85,Dr. Vikram Singh 85,10,Urologist,8,900.00
+86,Dr. Sneha Kumar 86,11,Oncologist,20,1100.00
+87,Dr. Kiran Verma 87,12,Gastroenterologist,11,1200.00
+88,Dr. Neha Reddy 88,13,Pulmonologist,23,900.00
+89,Dr. Amit Shah 89,14,Psychiatrist,25,500.00
+90,Dr. Pooja Rao 90,15,Emergency Physician,25,1500.00
+91,Dr. Sandeep Kumar 91,1,Cardiologist,10,1300.00
+92,Dr. Divya Singh 92,2,Neurologist,4,600.00
+93,Dr. Manoj Patel 93,3,Orthopedic Specialist,19,1100.00
+94,Dr. Kavya Sharma 94,4,Pediatrician,19,500.00
+95,Dr. Rohit Reddy 95,5,Dermatologist,11,800.00
+96,Dr. Meera Nair 96,6,General Physician,23,1300.00
+97,Dr. Aditya Rao 97,7,ENT Specialist,14,600.00
+98,Dr. Swathi Kumar 98,8,Ophthalmologist,17,1500.00
+99,Dr. Nikhil Verma 99,9,Gynecologist,16,600.00
+100,Dr. Lakshmi Reddy 100,10,Urologist,22,1000.00
